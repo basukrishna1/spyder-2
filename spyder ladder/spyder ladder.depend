@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623963283 source:c:\users\lenovo\desktop\c++\spyder ladder\main.cpp
+	<iostream>
+	<stdio.h>
+
